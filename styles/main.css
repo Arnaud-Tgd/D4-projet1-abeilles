@@ -1,0 +1,45 @@
+footer {
+    font-size: .8em;
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+}
+
+.output {
+    background: #eee;
+    position: relative;
+}
+
+.video {
+display: flex;
+position: relative;
+
+}
+
+header{
+
+}
+
+h1{
+font-family: 'oswald';
+font-size: 8em;
+text-align: center;
+
+}
+
+
+body{
+background-color: #F4BB00
+;
+
+}
+
+.next{
+
+padding-left: 20em;
+}
+
+.list{
+list-style: none;
+
+}
