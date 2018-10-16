@@ -30,7 +30,7 @@ display: flex;
 }
 
 .conteneur3{
-  background-image: url("../image/backgrounds/back-1_3.png");
+  background-image: url("../image/backgrounds/bg-1_3.png");
 background-position: top;
 
 background: no-repeat;
@@ -39,7 +39,7 @@ background: no-repeat;
 .how{
 
 
-background-image: url("../image/backgrounds/back-1_2.png");
+background-image: url("../image/backgrounds/bg-1_2.png");
 background-position: top;
 
 background: no-repeat;
@@ -68,7 +68,7 @@ font-weight: bold;
 ul{
   color: #FAEF1B;
 padding-left: 69em;
-background-image: url("../image/backgrounds/back-menu.png");
+background-image: url("../image/backgrounds/bg-menu.png");
 background-position: bottom;
 
 background: no-repeat;
@@ -79,8 +79,8 @@ background: no-repeat;
 .about{
   text-align: left;
   justify-content: center;
-  background-image: url("../image/backgrounds/back-1_1.png");
-  padding: none;
+  background-image: url("../image/backgrounds/bg-1_1.png");
+  padding: 0;
   background: no-repeat;
 background-position: top;
 background-clip: border-box;
@@ -90,7 +90,7 @@ width: auto;
 
 .all{
 
-display: flex-wrap;
+display: flex;
 align-items: center;
 position: top;
 
