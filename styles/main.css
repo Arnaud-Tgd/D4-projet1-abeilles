@@ -1,17 +1,7 @@
 
 
 
-footer {
-    font-size: .8em;
-    position: absolute;
-    bottom: 10px;
-    right: 10px;
-}
 
-.output {
-    background: #eee;
-    position: relative;
-}
 
 .video {
 display: flex;
@@ -39,12 +29,20 @@ color: #140087;
 display: flex;
 }
 
+.conteneur3{
+  background-image: url("../image/backgrounds/back-1_3.png");
+background-position: top;
+
+background: no-repeat;
+}
 
 .how{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+
+
+background-image: url("../image/backgrounds/back-1_2.png");
+background-position: top;
+
+background: no-repeat;
 
 }
 
@@ -65,23 +63,36 @@ padding-right: 3em;
 margin-top: 20%;
 font-family: 'oswald';
 font-weight: bold;
-position: relative;
 }
 
 ul{
   color: #FAEF1B;
 padding-left: 69em;
+background-image: url("../image/backgrounds/back-menu.png");
+background-position: bottom;
 
+background: no-repeat;
 }
 
 
 
 .about{
   text-align: left;
-  background-image: url("../image/backgrounds/Back-1_1.png");
+  justify-content: center;
+  background-image: url("../image/backgrounds/back-1_1.png");
+  padding: none;
+  background: no-repeat;
+background-position: top;
+background-clip: border-box;
+height: auto;
+width: auto;
 }
 
 .all{
+
+display: flex-wrap;
+align-items: center;
+position: top;
 
 }
 
